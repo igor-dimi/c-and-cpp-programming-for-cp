@@ -1,13 +1,11 @@
 # Degiskenler
 
 
-Dogada ve evrendeki objelerin degisime ugramasi ve bu degisime sebep olan eylemler. 
+Objeler, eylemler ve islemler 
 
+Imperative Programlama paradigmasi, Von Neuman modeli ve programlama tarihcesi hakkinda genel kisa bilgiler
 
-Imperative Programlama paradigmasi, Von Neuman modeli ve programlama tarihcesi hakkinda genel kisa bilgiler, ve bu baglamda degiskenler ile ilgili genel aciklama ve bilgiler.
-
-Program durum uzayi, program durum uzayinda degiskenlerin programin islemi suresince ugradiklari degisim, program sureci degiskenlerin tablosu kavramlarinin
-aciklanmasi. On-kosul ve Ard-kosul kavramlarina deginilmesi. Bir programin bir on-kosulu saglayan girdi ve bir ard-kosulu saglayan cikti seklinde tanimlanan bir spesifikasyonu gerceklestiren bir fonksiyon olarak tanimlanmasi
+Program durum uzayi, program sureci ve islem izi, degiskenlerin program sureci boyunca aldiklari farkli degerler. On-kosul ve Ard-kosul kavramlari. Bir programin bir on-kosulu saglayan girdi ve bir ard-kosulu saglayan cikti seklinde tanimlanan bir spesifikasyonu gerceklestiren bir fonksiyon olarak tanimlanmasi
 
 Komut/Eylem vs Ifade/Deger. C ve C++'a ozel olarak bazi dil konstruktlerinin hem ifade hem de komut olabilmesi 
 
@@ -40,7 +38,7 @@ int main() {
 
 ## Degisken Tipleri
 
-Sinif, kume, tip, eslik sinifi ve predikat kavramlarinin icgudusel aciklmasi, bu kavramlar arasindaki baglantilar. Evrendeki farkli benzer objelerin ayni tip sinifi siniflandirilmasi ve bunun programlama dillerindeki degisken tipi kavrami ile olan baglantisinin aciklanmasi. Degisken tiplerinin alabilecegi degerler ve bu degerler uzerine uygulanabilen temel islemler. c ve c++' temel degisken tipleri. Int, 2's complement. 2's complement 3 bitlik basit aciklamasi ve sematik gosterimi. Unsigned int. Float, char
+Sinif, kume, tip, eslik sinifi ve predikat kavramlari ve bu kavramlar arasindaki baglantilar. Benzer ozellikler gosteren objelerin ayni sinif veya tip altinda siniflandirilarak olusturulan matematiksel uzay. Degisken tiplerinin alabilecegi degerler ve bu degerler uzerine uygulanabilen temel islemler.  c ve c++'de temel degisken tipleri. Int, 2's complement. 2's complement 3 bitlik basit aciklamasi ve sematik gosterimi. Unsigned int. Float, char
 
 ```c
 /*
