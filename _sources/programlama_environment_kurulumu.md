@@ -13,24 +13,19 @@ kernelspec:
   name: python3
 ---
 
-# Bilgisayar Olimpiyatlari Genel Bilgilendirme
+# Bilgisayar Olimpiyatlari Genel Bilgi
 
-Bilgisayar Olimpiyatlari nedir?  
+Bilgisayar Olimpiyatlari nedir?\ 
 Bilgisayar Olimpiyatlari ne degildir? 
 
 ![Tubitak Sureci](tubitak-surec.png)
 
 ## VS Code kurulumu
 
-VS code kurulumu
+[VS Code](https://code.visualstudio.com/) kurulumu 
 
-### windows
-
-soyle kurulur
-
-### linux
-
-boyle
+- **windows**:
+- **linux**:
 
 
 ## Derleyici Kurlumu
